@@ -82,7 +82,7 @@ and plain PGM picture.
 
 ## Credits
 
-By [Vlad-Stefan Harbuz](https://vladh.net).
+By [Vlad-Stefan Harbuz](https://vlad.website).
 
 PNG conversion using [pngjs by Luke Page](https://github.com/lukeapage/pngjs).
 

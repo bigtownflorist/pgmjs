@@ -9,7 +9,7 @@
   "scripts": {
     "test": "node test/test.js"
   },
-  "author": "Vlad-Stefan Harbuz <vlad@vladh.net>",
+  "author": "Vlad-Stefan Harbuz <vlad@vlad.website>",
   "license": "ISC",
   "dependencies": {
     "pngjs": "^3.4.0"
